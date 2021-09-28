@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @HandWend
-- 👀 I’m interested in  programming
-- 🌱 I’m currently learning html, css, javascript and python.
+- 
+- 👀 I'm learning programming language.
+- 🌱 I'm learning about HTML, CSS, Javascript and Python.
 
 <!---
 HandWend/HandWend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
